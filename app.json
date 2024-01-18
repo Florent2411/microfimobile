@@ -1,0 +1,31 @@
+{
+    "expo": {
+      "name": "MicrofiCollecte",
+      "slug": "MicrofiCollecte",
+      "version": "1.0.0",
+      "orientation": "portrait",
+      "icon": "./App/assets/icon.png",
+      "userInterfaceStyle": "light",
+      "splash": {
+        "backgroundColor": "#FF5900"
+      },
+      "updates": {
+        "fallbackToCacheTimeout": 0
+      },
+      "assetBundlePatterns": [
+        "**/*"
+      ],
+      "ios": {
+        "supportsTablet": true
+      },
+      "android": {
+        "adaptiveIcon": {
+          "backgroundColor": "#FF5900"
+        }
+      },
+      "web": {
+        "favicon": "./App/assets/favicon.png"
+      }
+    }
+  }
+  
